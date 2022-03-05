@@ -7,5 +7,5 @@ Included is first example in order to improve visualization and presentation ski
 
 #visuals #visualizations #presentations #dpv #alzheimers
 
-Main file -> contains infographics and academic research surrounding Alzheimer's prevalence and studies
+Main file -> contains infographics and academic research surrounding Alzheimer's prevalence and studies<br>
 FAQ Where's the coding? A: This repo is used for gaining experience with techniques of presenting information, something that will come in handy in this job role. While data manipulation was done, this code was purposefully removed in order to highlight emphasis on presentation. See my other repos for further information regarding coding examples.
